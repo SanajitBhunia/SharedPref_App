@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SharedPref App</string>
+    <string name="TextView">Shared Preference App</string>
+    <string name="Edittext">Enter your name</string>
+    <string name="textView2">Last user</string>
+    <string name="Button">Save</string>
+
+</resources>
